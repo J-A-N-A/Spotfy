@@ -5,6 +5,11 @@ Frontend:React js ,Bootstrap,axios<BR>
 Middleware:Expressjs<BR>
 Database:Mongodb atlas<BR>
 
+<p align="center">
+  <img src="" width="350" title="hover text">
+  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+</p>
+
 ## Installation
 
 Use the Node package manager to install following dependencies(node must be installed on your system!)
