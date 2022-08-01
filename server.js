@@ -2,7 +2,8 @@ const cors = require('cors');
 const express = require('express');
 const mongoose = require('mongoose');
 require('dotenv').config();
-const mongoString = process.env.MONGODB_URI;
+//add your mongo db atlas uri along with credentias in process.env and  assign it to MONGODB_URL
+const mongoString = process.env.MONGODB_URL;
 const PORT=process.env.PORT || 5000;
 mongoose.connect(mongoString);
 const database = mongoose.connection;
