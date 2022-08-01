@@ -1,2 +1,2 @@
 # Spotfy
-spotfy (music management system) usinng MERN stack
+spotfy (music management system) using MERN stack
